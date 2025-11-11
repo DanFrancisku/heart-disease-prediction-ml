@@ -1,4 +1,8 @@
 # Heart-disease-prediction-ml
+<p align="center">
+  <img src="preview.png" alt="Heart Disease Prediction" width="80%">
+</p>
+
 Machine Learning project predicting heart disease using Logistic Regression and Random Forest.
 # 🩺 Heart Disease Prediction using Machine Learning  
 
