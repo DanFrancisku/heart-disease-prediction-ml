@@ -48,7 +48,7 @@ The goal was to build a predictive model that can assist with early risk identif
 ---
 
 ## 🔗 Links
-- 📄 **Kaggle Notebook:** [Add your Kaggle link here]
+- 📄 **Kaggle Notebook:** [https://www.kaggle.com/code/dhanushkafrancisku/heart-disease-prediction-with-ml-dhanushka]
 - 💻 **Author:** [Dhanushka Francisku](https://github.com/yourusername)
 
 ---
